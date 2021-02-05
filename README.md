@@ -5,7 +5,7 @@
 
 _This workshop presents different challenges that will help you explore the concepts of naming schemes and clients and services. Additionally, the workshop will help you explore the architecture of applications distributed over the internet._
 
-##HEATING
+### HEATING
 
 #### EXERCISE 1
 _Write a program in which you create a URL object and print each component of a URL to the screen. That is, you must use the following methods: getProtocol, getAuthority, getHost, getPort, getPath, getQuery, getFile, getRef. Make sure neither prints an empty string, this implies that the URL you use for your object must contain enough data._
@@ -16,10 +16,12 @@ _Write a browser application that, given a URL, reads data from that address and
 #### EXERCISE 3
 _Using sockets write a server that receives a number and answers the square of this number. Write a customer to test it and send him a sequence of 20 numbers._
 
-### CHALLENGE 1
+### CHALLENGES
+
+#### CHALLENGE 1
 _Write a web server that supports multiple requests in a row (non-concurrent). The server should return all requested files, including html pages and images. Build a website with javascript to test your server. Deploy your solution on Heroku. DO NOT use web frameworks like Spark or Spring use only Java and the libraries for network management._
 
-### CHALLENGE 2 (ADVANCED)
+#### CHALLENGE 2 (ADVANCED)
 _Using your server and java (DO NOT use web frameworks like Spark or Spring). Write a Spark-like framework that allows you to publish "get" web services with lambda functions and allow you to access static resources such as pages, javascripts, images, and CSSs. Create an application that connects to a database from the server to test your solution. Deploy your solution on Heroku._
 
 ## Getting Started
