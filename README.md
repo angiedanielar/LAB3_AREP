@@ -1,9 +1,8 @@
 # LABORATORY - CLIENTS AND SERVICES WORKSHOP. 🚀
 
-
 ## Escuela Colombiana de Ingeniería - Enterprise Architectures(AREP).
 
-_This workshop presents different challenges that will help you explore the concepts of naming schemes and clients and services. Additionally, the workshop will help you explore the architecture of applications distributed over the internet._
+_This laboratory presents different challenges that will help to explore the concepts of naming schemes and clients and services. Additionally, will help to explore the architecture of applications distributed over the internet._
 
 ### HEATING
 
@@ -99,7 +98,6 @@ mvn javadoc:javadoc
 ## Author
 
 - Angie Daniela Ruiz Alfonso.
-
 
 ## License
 
