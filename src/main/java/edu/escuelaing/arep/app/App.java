@@ -1,13 +1,16 @@
 package edu.escuelaing.arep.app;
 
+import java.io.IOException;
+
 /**
- * Hello world!
+ * Create a HttpServer
  *
  */
 public class App 
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
+	public static void main(String[] args) throws IOException {
+        HttpServer server = new HttpServer();
+        server.run();
     }
+
 }
