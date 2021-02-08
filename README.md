@@ -54,6 +54,8 @@ mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.App"
 And put this link in your browser: http://localhost:36000/index.html
 ```
 
+- Or go to the [web page](https://front-3lab.herokuapp.com/index.html)
+
 4. Generating the documentation:
 
 ```
@@ -61,6 +63,13 @@ mvn javadoc:javadoc
 ```
 
 - [View Documentation Ubication](https://angiedanielar.github.io/LAB3_AREP/apidocs)
+
+## Results
+
+_In this laboratory, I'm implemented a client-server architecture, which allows us to Understand how the server handles and manages requests from the different clients. These request can be about services or about resources such as web pages or images, how we can see in the follow image._
+
+
+![Imagen 1](resources/images/resultados.png)
 
 ## Built With
 
