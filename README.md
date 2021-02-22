@@ -49,7 +49,7 @@ mvn package
 3. Executing the program:
 
 ```
-mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.App"
+mvn exec:java -D "exec.mainClass"="edu.escuelaing.arep.app.App"
 
 And put this link in your browser: http://localhost:36000/index.html
 ```
